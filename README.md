@@ -15,7 +15,7 @@ Convert your images to editable text with our powerful OCR tool.
 
 Experience the power of our OCR tool:
 
-👉 [Try CodeLineX Image to Text](https://codelinex-ocr.vercel.app)
+👉 [Try CodeLineX Image to Text](https://6739d3671cddd5c85abe63ff--astonishing-biscuit-d52f28.netlify.app/)
 
 ## How It Works
 
@@ -36,13 +36,8 @@ Experience the power of our OCR tool:
 
 CodeLineX is committed to creating innovative tools that make digital tasks easier. Our Image to Text converter is designed with simplicity and efficiency in mind.
 
-## Support
 
-Having issues or suggestions? [Create an issue](https://github.com/C0deLineX/image-to-text/issues) on our GitHub repository.
 
-## License
-
-MIT License - feel free to use and modify as needed!
 
 ---
 Made with ❤️ by [CodeLineX](https://github.com/C0deLineX)
